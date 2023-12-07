@@ -1,0 +1,17 @@
+2f596109ba01386eae3e75dc46b90c10 *DESCRIPTION
+b458a5f68f3da52fd93f26ca61a94a28 *NAMESPACE
+6b820d5c3b4ad0f291fc55b1d9d81366 *R/scale_color_ul.R
+f2c45e82757ede18217a6364f39cceac *R/scale_fill_ul.R
+0685e5fd70ea2315e02c6e95400c27cc *R/theme_ul.R
+1983f647e4a914afff08a89e0c1d86a5 *R/ul_color.R
+fbc2f81f74ed0af78696eb42e71de8dc *R/ul_pal.R
+4c38170f1af278e3fe8b89a7435e01c9 *build/vignette.rds
+a98831e79b268963edde84bb0748bfa2 *inst/doc/ggthemeUL.R
+b9bdddadd6ef63174f19714610a447cd *inst/doc/ggthemeUL.Rmd
+f580c9cbddfdf86c8377cfa3804708e4 *inst/doc/ggthemeUL.html
+dc2c9c9927731717826b21c70397f8a5 *man/scale_color_ul.Rd
+bd701549c6526fd7bfcc6407e309c5a4 *man/scale_fill_ul.Rd
+be7e752616016ec29c0aa012f94466bf *man/theme_ul.Rd
+66c7e530c285b012a92b3275a59f0a0b *man/ul_color.Rd
+011f29e4f0c22857530113caf0e8218b *man/ul_pal.Rd
+b9bdddadd6ef63174f19714610a447cd *vignettes/ggthemeUL.Rmd
